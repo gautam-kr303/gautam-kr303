@@ -16,7 +16,7 @@ I'm also an enthusiastic problem solver with a strong foundation in Data Structu
 
 ⚡ LeetCode Max Contest Rating: 1500+
 
-✅ Solved 400+ problems on GeeksforGeeks
+✅ Solved 200+ problems on GeeksforGeeks
 
 ✅ Solved 400+ problems on Leetcode
 
@@ -79,10 +79,7 @@ I'm also an enthusiastic problem solver with a strong foundation in Data Structu
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
   </a>&nbsp;&nbsp;
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gautam-kumar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </a>&nbsp;&nbsp;
+ 
 
   <!-- X/Twitter -->
   <a href="https://x.com/gautam_kr18" target="_blank" rel="noreferrer">
